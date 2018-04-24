@@ -1,0 +1,29 @@
+{
+
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"  V",
+		" S ",
+		"S  "
+	],
+	"key": {
+
+		"V": {
+
+			"item": "nanotubearmor:vine_gem"
+
+		},
+		"S": {
+
+			"item": "minecraft:stick"
+
+		}
+
+	},
+	"result": {
+
+		"item": "nanotubearmor:vine_killer"
+
+	}
+
+}

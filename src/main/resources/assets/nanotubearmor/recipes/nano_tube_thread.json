@@ -1,0 +1,30 @@
+{
+
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" T ",
+		"TDT",
+		" T "
+	],
+	"key": {
+
+		"T": {
+
+			"item": "nanotubearmor:nano_tubes"
+
+		},
+		"D": {
+
+			"item": "minecraft:diamond"
+
+		}
+
+	},
+	"result": {
+
+		"item": "nanotubearmor:nano_tube_thread",
+		"count": 2
+
+	}
+
+}

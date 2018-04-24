@@ -1,0 +1,29 @@
+{
+
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CCC",
+		"RRR",
+		"CCC"
+	],
+	"key": {
+
+		"C": {
+
+			"item": "nanotubearmor:ingot_copper"
+
+		},
+		"R": {
+
+			"item": "minecraft:redstone"
+
+		}
+
+	},
+	"result": {
+
+		"item": "nanotubearmor:wire"
+
+	}
+
+}

@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "nanotubearmor:dust_carbon"
+		},
+		{
+			"item": "nanotubearmor:tape"
+		}
+	],
+	"result": {
+		"item": "nanotubearmor:graphene"
+	}
+}

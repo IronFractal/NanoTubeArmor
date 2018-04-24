@@ -1,0 +1,44 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotFrancium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotFrancium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotFrancium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotFrancium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotFrancium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotFrancium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotFrancium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotFrancium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotFrancium"
+    }
+  ],
+  "result": {
+    "item": "nanotubearmor:plate_francium"
+  }
+}

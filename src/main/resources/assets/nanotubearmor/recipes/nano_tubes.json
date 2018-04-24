@@ -1,0 +1,30 @@
+{
+
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"GSG",
+		"GSG",
+		"GSG"
+	],
+	"key": {
+
+		"G": {
+
+			"item": "nanotubearmor:graphene"
+
+		},
+		"S": {
+
+			"item": "minecraft:stick"
+
+		}
+
+	},
+	"result": {
+
+		"item": "nanotubearmor:nano_tubes",
+		"count": 6
+
+	}
+
+}

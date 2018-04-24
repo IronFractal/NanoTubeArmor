@@ -1,0 +1,44 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotUKMeU120"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotUKMeU120"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotUKMeU120"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotUKMeU120"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotUKMeU120"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotUKMeU120"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotUKMeU120"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotUKMeU120"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotUKMeU120"
+    }
+  ],
+  "result": {
+    "item": "nanotubearmor:plate_ukmeu120"
+  }
+}

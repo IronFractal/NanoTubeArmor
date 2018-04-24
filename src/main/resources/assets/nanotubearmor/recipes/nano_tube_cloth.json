@@ -1,0 +1,24 @@
+{
+
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CCC",
+		"CCC",
+		"CCC"
+	],
+	"key": {
+
+		"C": {
+
+			"item": "nanotubearmor:nano_tube_thread"
+
+		}
+
+	},
+	"result": {
+
+		"item": "nanotubearmor:nano_tube_cloth"
+
+	}
+
+}

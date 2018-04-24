@@ -1,0 +1,44 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotTitanium"
+    }
+  ],
+  "result": {
+    "item": "nanotubearmor:plate_titanium"
+  }
+}

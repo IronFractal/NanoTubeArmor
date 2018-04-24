@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nanotubearmor",
+  "name": "Nano Tube Armor",
+  "description": "This mod adds a mid to late game set of armor along with ways to craft it.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Mr_Pyro"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

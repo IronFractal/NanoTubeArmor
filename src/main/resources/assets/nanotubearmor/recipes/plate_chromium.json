@@ -1,0 +1,44 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotChromium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotChromium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotChromium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotChromium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotChromium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotChromium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotChromium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotChromium"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "ingotChromium"
+    }
+  ],
+  "result": {
+    "item": "nanotubearmor:plate_chromium"
+  }
+}

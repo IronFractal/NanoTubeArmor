@@ -1,0 +1,29 @@
+{
+
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"FFF",
+		"FCF",
+		"FFF"
+	],
+	"key": {
+
+		"F": {
+
+			"item": "nanotubearmor:ingot_francium"
+
+		},
+		"C": {
+
+			"item": "minecraft:magma_cream"
+
+		}
+
+	},
+	"result": {
+
+		"item": "nanotubearmor:energized_ball"
+
+	}
+
+}

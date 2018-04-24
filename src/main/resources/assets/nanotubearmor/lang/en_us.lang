@@ -1,0 +1,65 @@
+# Creative Tab
+itemGroup.nanotubearmor=Nano Tube Armor
+
+# Items
+item.ingot_copper.name=Copper Ingot
+item.copper_sword.name=Copper Sword
+item.copper_pickaxe.name=Copper Pickaxe
+item.copper_axe.name=Copper Axe
+item.copper_shovel.name=Copper Shovel
+item.copper_hoe.name=Copper Hoe
+
+#ingots
+item.ingot_copper.name=Copper Ingot
+item.ingot_zinc.name=Zinc Ingot
+item.ingot_tungsten.name=Tungsten Ingot
+item.ingot_titanium.name=Titanium Ingot
+item.ingot_chromium.name=Chromium Ingot
+item.ingot_francium.name=Francium Ingot
+item.ingot_ukmeu119.name=Unknown Metal U119 Ingot
+item.ingot_ukmeu120.name=Unknown Metal U120 Ingot
+
+#plate
+item.plate_copper.name=Copper Plate
+item.plate_zinc.name=Zinc Plate
+item.plate_tungsten.name=Tungsten Plate
+item.plate_titanium.name=Titanium Plate
+item.plate_chromium.name=Chromium Plate
+item.plate_francium.name=Francium Plate
+item.plate_ukmeu119.name=Unknown Metal U119 Plate
+item.plate_ukmeu120.name=Unknown Metal U120 Plate
+
+item.dust_carbon.name=Carbon Dust
+
+item.copper_helmet.name=Copper Helmet
+item.copper_chestplate.name=Copper Chestplate
+item.copper_leggings.name=Copper Leggings
+item.copper_boots.name=Copper Boots
+
+item.nano_helmet.name=Nano Tube Armor Helmet
+item.nano_chestplate.name=Nano Tube Armor Chestplate
+item.nano_leggings.name=Nano Tube Armor Leggings
+item.nano_boots.name=Nano Tube Armor Boots
+
+item.vine_killer.name=Vine Killer
+item.vine_gem.name=Vine Gem
+
+item.graphene.name=Graphene
+item.tape.name=Tape
+item.nano_tubes.name=Nano Tubes
+item.nano_tube_thread.name=Nano Tube Thread
+item.nano_tube_cloth.name=Nano Tube Cloth
+item.energized_ball.name=Energized Ball
+item.armor_plate.name=Armor Plate
+item.wire.name=Wire
+
+# Blocks
+tile.ore_copper.name=Copper Ore
+tile.ore_tungsten.name=Tungsten Ore
+tile.ore_titanium.name=Titanium Ore
+tile.ore_chromium.name=Chromium Ore
+tile.ore_francium.name=Francium Ore
+tile.ore_ukmeu119.name=Unknown Metal U119 Ore
+tile.ore_ukmeu120.name=Unknown Metal U120 Ore
+
+tile.pedestal.name=Pedestal

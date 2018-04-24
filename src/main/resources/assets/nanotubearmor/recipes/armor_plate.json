@@ -1,0 +1,49 @@
+{
+
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"UTU",
+		"GEC",
+		"KTK"
+	],
+	"key": {
+
+		"U": {
+
+			"item": "nanotubearmor:plate_ukmeu119"
+
+		},
+		"K": {
+
+			"item": "nanotubearmor:plate_ukmeu120"
+
+		},
+		"E": {
+
+			"item": "nanotubearmor:energized_ball"
+
+		},
+		"T": {
+
+			"item": "nanotubearmor:plate_titanium"
+
+		},
+		"C": {
+
+			"item": "nanotubearmor:plate_chromium"
+
+		},
+		"G": {
+
+			"item": "nanotubearmor:plate_tungsten"
+
+		}
+
+	},
+	"result": {
+
+		"item": "nanotubearmor:armor_plate"
+
+	}
+
+}

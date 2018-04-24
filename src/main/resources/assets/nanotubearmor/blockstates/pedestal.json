@@ -1,0 +1,12 @@
+{
+	"forge_marker": 1,
+	"variants": {
+		"normal": {
+			"model": "nanotubearmor:pedestal"
+		},
+		"inventory": {
+			"model": "nanotubearmor:pedestal",
+			"transform": "forge:default-block"
+		}
+	}
+}

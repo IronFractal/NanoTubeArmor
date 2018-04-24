@@ -1,0 +1,15 @@
+{
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:coal"
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "cobblestone"
+    }
+  ],
+  "result": {
+    "item": "nanotubearmor:dust_carbon"
+  }
+}
