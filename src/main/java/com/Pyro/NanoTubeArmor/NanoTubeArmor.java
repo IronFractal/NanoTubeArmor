@@ -36,7 +36,7 @@ public class NanoTubeArmor {
 	
 	public static final String MODID = "nanotubearmor";
 	public static final String MODNAME = "Nano Tube Armor";
-	public static final String VERSION = "0.0.1";
+	public static final String VERSION = "0.0.0.1";
 
 	public static SimpleNetworkWrapper network;
 	
