@@ -22,7 +22,8 @@
 	},
 	"result": {
 
-		"item": "nanotubearmor:wire"
+		"item": "nanotubearmor:wire",
+		"count": 16
 
 	}
 
