@@ -1,0 +1,29 @@
+{
+
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"III",
+		"IBI",
+		"III"
+	],
+	"key": {
+
+		"I": {
+
+			"item": "minecraft:iron_nugget"
+
+		},
+		"B": {
+
+			"item": "nanotubearmor:computer_board"
+
+		}
+
+	},
+	"result": {
+
+		"item": "nanotubearmor:nano_bot_swarm"
+
+	}
+
+}

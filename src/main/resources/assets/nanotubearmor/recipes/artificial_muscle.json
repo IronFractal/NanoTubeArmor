@@ -1,0 +1,34 @@
+{
+
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CTC",
+		"CNC",
+		"CTC"
+	],
+	"key": {
+
+		"C": {
+
+			"item": "nanotubearmor:nano_tube_cloth"
+
+		},
+		"T": {
+
+			"item": "nanotubearmor:nano_tube_thread"
+
+		},
+		"N": {
+
+			"item": "nanotubearmor:nano_bot_swarm"
+
+		}
+
+	},
+	"result": {
+
+		"item": "nanotubearmor:artificial_muscle"
+
+	}
+
+}

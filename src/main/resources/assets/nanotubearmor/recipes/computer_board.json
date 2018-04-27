@@ -1,0 +1,34 @@
+{
+
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"IWI",
+		"WBW",
+		"IWI"
+	],
+	"key": {
+
+		"I": {
+
+			"item": "minecraft:iron_ingot"
+
+		},
+		"W": {
+
+			"item": "nanotubearmor:wire"
+
+		},
+		"B": {
+
+			"item": "nanotubearmor:silicon_board"
+
+		}
+
+	},
+	"result": {
+
+		"item": "nanotubearmor:computer_board"
+
+	}
+
+}

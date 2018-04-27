@@ -1,0 +1,34 @@
+{
+
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"PMP",
+		"MBM",
+		"PMP"
+	],
+	"key": {
+
+		"P": {
+
+			"item": "nanotubearmor:armor_plate"
+
+		},
+		"M": {
+
+			"item": "nanotubearmor:artificial_muscle"
+
+		},
+		"B": {
+
+			"item": "nanotubearmor:battery"
+
+		}
+
+	},
+	"result": {
+
+		"item": "nanotubearmor:nano_armor_plate"
+
+	}
+
+}

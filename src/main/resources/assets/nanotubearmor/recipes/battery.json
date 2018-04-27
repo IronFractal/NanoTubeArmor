@@ -1,0 +1,34 @@
+{
+
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"CZC",
+		"ZPZ",
+		"CZC"
+	],
+	"key": {
+
+		"C": {
+
+			"item": "nanotubearmor:ingot_copper"
+
+		},
+		"P": {
+
+			"item": "minecraft:paper"
+
+		},
+		"Z": {
+
+			"item": "nanotubearmor:ingot_zinc"
+
+		}
+
+	},
+	"result": {
+
+		"item": "nanotubearmor:battery"
+
+	}
+
+}
