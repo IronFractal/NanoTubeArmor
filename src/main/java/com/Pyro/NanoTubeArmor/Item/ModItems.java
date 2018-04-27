@@ -35,6 +35,8 @@ public class ModItems {
 	public static ItemOre plateUKMeU120 = new ItemOre("plate_ukmeu120", "plateUKMeU120");
 	
 	public static ItemOre dustCarbon = new ItemOre("dust_carbon", "dustCoal");
+	public static ItemOre silicon = new ItemOre("silicon", "silicon");
+	public static ItemOre battery = new ItemOre("battery", "battery");
 	
 	public static ItemSword copperSword = new ItemSword(NanoTubeArmor.copperToolMaterial, "copper_sword");
 	public static ItemPickaxe copperPickaxe = new ItemPickaxe(NanoTubeArmor.copperToolMaterial, "copper_pickaxe");
@@ -63,6 +65,11 @@ public class ModItems {
 	public static ItemBase energizedBall = new ItemBase("energized_ball");
 	public static ItemBase armorPlate = new ItemBase("armor_plate");
 	public static ItemBase wire = new ItemBase("wire");
+	public static ItemBase siliconBoard = new ItemBase("silicon_board");
+	public static ItemBase computerBoard = new ItemBase("computer_board");
+	public static ItemBase nanoBotSwarm = new ItemBase("nano_bot_swarm");
+	public static ItemBase artificialMuscle = new ItemBase("artificial_muscle");
+	public static ItemBase nanoArmorPlate = new ItemBase("nano_armor_plate");
 	
 	public static void register(IForgeRegistry<Item> registry) {
 		
@@ -85,6 +92,8 @@ public class ModItems {
 		registry.registerAll(plateUKMeU120);
 		
 		registry.registerAll(dustCarbon);
+		registry.registerAll(silicon);
+		registry.registerAll(battery);
 		
 		//registry.registerAll(copperSword);
 		//registry.registerAll(copperPickaxe);
@@ -113,6 +122,12 @@ public class ModItems {
 		registry.registerAll(energizedBall);
 		registry.registerAll(armorPlate);
 		registry.registerAll(wire);
+		registry.registerAll(siliconBoard);
+		registry.registerAll(computerBoard);
+		registry.registerAll(nanoBotSwarm);
+		
+		registry.registerAll(artificialMuscle);
+		registry.registerAll(nanoArmorPlate);
 		
 	}
 	
@@ -137,6 +152,8 @@ public class ModItems {
 		plateUKMeU120.registerItemModel();
 		
 		dustCarbon.registerItemModel();
+		silicon.registerItemModel();
+		battery.registerItemModel();
 		
 		//copperSword.registerItemModel();
 		//copperPickaxe.registerItemModel();
@@ -165,6 +182,11 @@ public class ModItems {
 		energizedBall.registerItemModel();
 		armorPlate.registerItemModel();
 		wire.registerItemModel();
+		siliconBoard.registerItemModel();
+		computerBoard.registerItemModel();
+		nanoBotSwarm.registerItemModel();
+		artificialMuscle.registerItemModel();
+		nanoArmorPlate.registerItemModel();
 		
 	}
 

@@ -31,6 +31,7 @@ public class ModBlocks {
 	public static void register(IForgeRegistry<Block> registry) {
 		
 		registry.registerAll(oreCopper);
+		registry.registerAll(oreZinc);
 		registry.registerAll(oreTungsten);
 		registry.registerAll(oreTitanium);
 		registry.registerAll(oreChromium);
@@ -51,6 +52,7 @@ public class ModBlocks {
 	public static void registerItemBlocks(IForgeRegistry<Item> registry) {
 		
 		registry.registerAll(oreCopper.createItemBlock());
+		registry.registerAll(oreZinc.createItemBlock());
 		registry.registerAll(oreTungsten.createItemBlock());
 		registry.registerAll(oreTitanium.createItemBlock());
 		registry.registerAll(oreChromium.createItemBlock());
@@ -68,6 +70,7 @@ public class ModBlocks {
 	public static void registerModels() {
 		
 		oreCopper.registerItemModel(Item.getItemFromBlock(oreCopper));
+		oreZinc.registerItemModel(Item.getItemFromBlock(oreZinc));
 		oreTungsten.registerItemModel(Item.getItemFromBlock(oreTungsten));
 		oreTitanium.registerItemModel(Item.getItemFromBlock(oreTitanium));
 		oreChromium.registerItemModel(Item.getItemFromBlock(oreChromium));
