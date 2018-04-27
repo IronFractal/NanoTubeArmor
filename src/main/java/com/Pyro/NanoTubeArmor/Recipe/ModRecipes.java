@@ -60,6 +60,8 @@ public class ModRecipes {
 		GameRegistry.addSmelting(ModBlocks.oreUKMeU119, new ItemStack(ModItems.ingotUKMeU119), 0.7f);
 		GameRegistry.addSmelting(ModBlocks.oreUKMeU120, new ItemStack(ModItems.ingotUKMeU120), 0.7f);
 		
+		GameRegistry.addSmelting(ModItems.silicon, new ItemStack(ModItems.siliconBoard), 0.7f);
+		
 	}
 	
 }
