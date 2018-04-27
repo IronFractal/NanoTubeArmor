@@ -30,6 +30,8 @@ item.plate_ukmeu119.name=Unknown Metal U119 Plate
 item.plate_ukmeu120.name=Unknown Metal U120 Plate
 
 item.dust_carbon.name=Carbon Dust
+item.silicon.name=Silicon
+item.battery.name=Battery
 
 item.copper_helmet.name=Copper Helmet
 item.copper_chestplate.name=Copper Chestplate
@@ -52,9 +54,15 @@ item.nano_tube_cloth.name=Nano Tube Cloth
 item.energized_ball.name=Energized Ball
 item.armor_plate.name=Armor Plate
 item.wire.name=Wire
+item.silicon_board.name=Silicon Board
+item.computer_board.name=Computer Board
+item.nano_bot_swarm.name=Nano Bot Swarm
+item.artificial_muscle.name=Artificial Muscle
+item.nano_armor_plate.name=Nano Armor Plate
 
 # Blocks
 tile.ore_copper.name=Copper Ore
+tile.ore_zinc.name=Zinc Ore
 tile.ore_tungsten.name=Tungsten Ore
 tile.ore_titanium.name=Titanium Ore
 tile.ore_chromium.name=Chromium Ore
